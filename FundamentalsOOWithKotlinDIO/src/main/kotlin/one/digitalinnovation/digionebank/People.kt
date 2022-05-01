@@ -7,7 +7,7 @@ open class People {
 
     constructor()
 
-    fun peopleInfo() = "$name e $cpf"
+    fun peopleInfo() = "$name and $cpf"
 }
 
 fun main() {
