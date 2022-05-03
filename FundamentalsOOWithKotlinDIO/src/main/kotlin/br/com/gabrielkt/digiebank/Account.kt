@@ -1,4 +1,4 @@
-package one.digitalinnovation.digionebank
+package br.com.gabrielkt.digiebank
 
 import java.math.BigDecimal
 

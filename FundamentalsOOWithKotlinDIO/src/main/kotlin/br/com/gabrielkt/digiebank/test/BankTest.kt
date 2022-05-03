@@ -1,6 +1,6 @@
-package one.digitalinnovation.digionebank.test
+package br.com.gabrielkt.digiebank.test
 
-import one.digitalinnovation.digionebank.Bank
+import br.com.gabrielkt.digiebank.Bank
 
 fun main() {
   val digiOneBank = Bank(name = "DigiBank", number = 12)

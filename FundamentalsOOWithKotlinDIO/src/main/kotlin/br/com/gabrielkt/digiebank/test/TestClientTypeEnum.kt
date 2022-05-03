@@ -1,9 +1,9 @@
-package one.digitalinnovation.digionebank.test
+package br.com.gabrielkt.digiebank.test
 
-import one.digitalinnovation.digionebank.ClientType
+import br.com.gabrielkt.digiebank.ClientType
 
 fun main() {
-  ClientType.values().forEach {element ->
+  ClientType.values().forEach { element ->
     println("${element.name} - ${element.description}")
   }
 
